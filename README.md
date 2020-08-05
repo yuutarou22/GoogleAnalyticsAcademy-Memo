@@ -1,0 +1,2 @@
+# GoogleAnalyticsAcademy-Memo
+GoogleAnalyticsAcademyで学習したことをまとめます。
